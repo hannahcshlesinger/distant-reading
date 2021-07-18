@@ -35,10 +35,12 @@ nav li {
     line-height: 80px;
 }
 
-#logo {
-    height: 20px; 
+nav header {
     display: inline-block;
-    position: absolute;
+    color: white;
+    float: left;
+    width: 18%;
+    min-width: 77px;
 }
 
 .content {
