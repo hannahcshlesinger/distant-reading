@@ -36,7 +36,9 @@ nav li {
 }
 
 #logo {
-    height: 80px; 
+    height: 20px; 
+    display: inline-block;
+    position: absolute;
 }
 
 .content {
